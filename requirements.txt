@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+openai
+pydantic
+fastapi
+uvicorn
+requests
+python-dotenv
+streamlit
+regex
+phonenumbers
+email-validator
